@@ -1,0 +1,104 @@
+h1 {
+    background-color: #4aaaa5;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    float: left;
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+}
+
+h2 {
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 20px;
+    color: #4aaaa5;
+}
+
+body {
+    background-image: url("../images/dust_scratches.png");
+}
+
+aside {
+    float: right;
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    position: relative;
+    top: 70px;
+    right: -470px;
+}
+
+footer {
+    background-color: #666666;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
+    padding: 25px;
+    border-top: 5px solid #4aaaa5;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+    background-color: #ffffff;
+}
+
+article {
+    background-color: #ffffff;
+    width: 650px;
+    height: 500px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    position: fixed;
+    top: 70px;
+    border-color: #dddddd;
+}
+
+.topbutton {
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration-color: #cccccc;
+}
+
+.icon {
+    float: left;
+    padding: 10px;
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+form {
+    padding: 40px;
+}
+
+p.contents {
+    text-align: flow;
+    line-height: 1.5;
+}
+
+img {
+    float: left;
+    padding: 10px;
+}
+
+.portfolio {
+    float: right;
+    padding: 20px;
+}
+
+.connect {
+    width: 640px;
+}
